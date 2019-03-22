@@ -1,0 +1,42 @@
+.tagsInputContainer {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: flex-start;
+    padding:0.5vw;
+    width: 100%;
+    background-color: white;
+    border-radius: 3px;
+    border-color: #bfbfbf;
+    border-style: solid;
+    border-width: 1px;
+    flex-wrap: wrap;
+  }
+  
+  .tagsInputContainer span {
+    color: white!important;
+    background-color: #f9616b;
+    margin-left: 0.25vw;
+    margin-right: 0.25vw;
+    padding-left: 0.5vw;
+    padding-right: 0.5vw;
+    padding-bottom: 0.15vw;
+    border-radius: 3px;
+  }
+  
+  .tagsInputContainer span a {
+    margin-left: 0.5vw;
+  }
+  
+  .tagsInputContainer input {
+    width: 20vw;
+    height: 2vw;
+    font-size: 1.15vw;
+    border-style: none;
+  }
+  
+  .tagsInputContainer label {
+    position: absolute;
+    opacity: 0.5;
+    font-size: 1.15vw;
+  }
