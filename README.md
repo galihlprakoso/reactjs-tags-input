@@ -22,4 +22,4 @@
 
 ## About
 
-`g-react-tags-input` is developed and maintained by [Galih Laras Prakoso](https://galihlprakoso.com). If you're interested to collaborate. Feel free to join!
+`reactjs-tags-input` is developed and maintained by [Galih Laras Prakoso](https://galihlprakoso.com). If you're interested to collaborate. Feel free to join!
