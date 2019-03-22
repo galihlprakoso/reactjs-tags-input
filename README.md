@@ -13,7 +13,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.npmjs.com/package/g-react-tags-input"><img src="https://img.shields.io/npm/v/g-react-tags-input.svg?style=flat-square"></a>
+  <a href="https://www.npmjs.com/package/reactjs-tags-input"><img src="https://img.shields.io/npm/v/reactjs-tags-input.svg?style=flat-square"></a>
 </p>
 
 ## Docs
